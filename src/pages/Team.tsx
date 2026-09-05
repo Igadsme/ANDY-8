@@ -1,7 +1,7 @@
 const team = [
   {
     name: "Imani Gad",
-    role: "Team Leader & Systems/Integration Engineer",
+    role: "Systems/Integration Engineer",
     focus: "System architecture, hardware integration, project coordination, schedule and risk management.",
     initials: "IG",
     color: "#2491FF",
